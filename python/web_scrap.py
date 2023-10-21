@@ -52,9 +52,7 @@ def scrap_job_postings():
             "date": date
         })
     
-    return job_postings
-    
-    
+    return job_postings  
 
 if __name__ == "__main__":
     print("This Python script contains code that does web scrapping.")
