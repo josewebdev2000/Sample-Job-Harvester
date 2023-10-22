@@ -1,3 +1,10 @@
 # Sample Job Harvester
-What is the Sample Job Harvester? Why is Space data important? good questions. To start off with the first, the sample job harvester is a platform that was developed to gather, analyze, and report data abouf space missions; it can also be used to calculate the proportionality of successful missions. As for the second question, space data is the data of the universe. The language spoken since, ir even before, the Big Bang. Meticulously measuring data about space is learning what we learn about the universe. Moreover, it is the way in which we interpret whether humanity will survive after global warming dominates the atmosphere.
+## What is the Sample Job Harvester?
+The Sample Job Harvester is a tool develop to publicly display fake job postings from a website to allow people to practice web scrapping.
+## Impacts of the Sample Job Harvester
+The Sample Job Harvester can evolve into implementing user authentication, thus granting people the privilege of having  a personal job posting management system ; a place where the can add, change, or even delete their job postings.
+
+This could advance an application where people manage the job postings they intend to apply, thus facilitating for the remininsce and management their schedule. 
+## Technologies used
+Multiple technologies were used in producing the Sample Job Harvester. They include CSS, HTML, JS, Bootstrap, jQuery, Python, BeautifulSoup,psycopg2, Java, Spring Boot, and PostgreSQL.
 
