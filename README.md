@@ -1,1 +1,3 @@
 # Sample Job Harvester
+What is the Sample Job Harvester? Why is Space data important? good questions. To start off with the first, the sample job harvester is a platform that was developed to gather, analyze, and report data abouf space missions; it can also be used to calculate the proportionality of successful missions. As for the second question, space data is the data of the universe. The language spoken since, ir even before, the Big Bang. Meticulously measuring data about space is learning what we learn about the universe. Moreover, it is the way in which we interpret whether humanity will survive after global warming dominates the atmosphere.
+
