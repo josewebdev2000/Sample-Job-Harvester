@@ -1,0 +1,11 @@
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\exceptions\ResourceNotFoundException.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\dtos\JobPostingDto.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\controllers\PagesController.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\WebAppApplication.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\controllers\CrudController.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\mappers\JobPostingMapper.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\exceptions\MissingIdParameterException.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\services\impl\JobPostingServiceImpl.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\entities\JobPosting.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\repositories\JobPostingRepository.java
+C:\Users\theCoolestOne\Desktop\Valencia\Valencia-CourseWork\Fall-2023\AJP\Assignments\Week_9\Sample-Job-Harvester\WebApp\src\main\java\com\SampleDataHarvester\WebApp\services\JobPostingService.java

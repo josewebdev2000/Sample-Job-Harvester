@@ -1,5 +1,5 @@
 // Global Constants
-const backEndGetPostingsUrlEndpoint = "http://localhost:8080/api/jobPostings";
+const backEndGetPostingsUrlEndpoint = "https://sample-job-harvester.onrender.com/api/jobPostings";
 
 function main()
 {

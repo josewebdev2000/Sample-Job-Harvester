@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Harvester</title>
+
+    <!--Favicon-->
+    <link rel="icon" href="img/favicon.ico">
+
+    <!--Bootstrap StyleSheets-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!--jAlert StyleSheet-->
+    <link rel="stylesheet" href="css/jAlert.css">
+
+    <!--Custom StyleSheets-->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!--Bootstrap JS Scripts-->
+    <script src="js/bootstrap.bundle.js"></script>
+
+    <!--jQuery Script-->
+    <script src="js/jquery.js"></script>
+
+    <!--jAlert JS Scripts-->
+    <script src="js/jAlert.min.js"></script>
+    <script src="js/jAlert-functions.min.js"></script>
+
+    <!--Custom JS Scripts-->
+    <script src="js/TableRow.js"></script>
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <header class="container-fluid p-5 bg-secondary text-white text-center">
+        <h1>Sample Job Harvester</h1>
+        <img id="header-img" src="img/colored-job-posting-128px.png" class="mt-3 ms-4 img-fluid" alt="Job Posting Image" />
+        <h5>Sample Job Postings Scrapped from <a href="https://realpython.github.io/fake-jobs/" class="link-info link-opacity-50-hover" target="_blank">Fake Jobs Real Python</a></h5>
+    </header>
+    <main class="container-fluid bg-light">
+        <div id="spinner-container" class="text-center">
+            <div id="spinner" class="data-loading-spinner spinner-grow spinner-grow-lg"></div>
+        </div>
+        <div id="search-form-container" class="m-5">
+            <form id="search-form" class="form-inline my-2 my-lg-0">
+                <input id="search-input" class="form-control mr-sm-2 w-50" type="search" placeholder="Filter Job Postings" />
+            </form>
+        </div>
+        <div id="job-postings-table-container" class="m-5">
+            <table id="job-postings-table" class="table table-dark table-striped table-bordered table-hover">
+                <thead id="table-headers">
+                </thead>
+                <tbody id="table-body">
+                </tbody>
+            </table>
+        </div>
+    </main>
+</body>
+</html>

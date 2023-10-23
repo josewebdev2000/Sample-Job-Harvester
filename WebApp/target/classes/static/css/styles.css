@@ -1,0 +1,81 @@
+/* General Styles */
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    flex-flow: column nowrap;
+    height: 100vh;
+    margin:0;
+    padding:0;
+}
+
+/* Header Section */
+header
+{
+    flex: 0.3;
+}
+
+header a
+{
+    text-decoration: none;
+}
+
+/* Main Section */
+main
+{
+    flex: 0.7;
+}
+
+div#spinner-container
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form#search-form
+{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.data-loading-spinner
+{
+    width: 15vw;
+    height: 15vw;
+}
+
+div#job-postings-table-container
+{
+    overflow: auto;
+    height: 200px;
+}
+
+thead#table-headers th
+{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    text-align: center;
+}
+
+input#search-input
+{
+    text-align: center;
+}
+
+/* Media Queries */
+@media screen and (max-width: 360px)
+{
+    header img
+    {
+        width: 50%;
+    }
+}

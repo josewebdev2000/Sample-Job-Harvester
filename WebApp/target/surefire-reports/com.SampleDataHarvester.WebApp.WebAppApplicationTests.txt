@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.SampleDataHarvester.WebApp.WebAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.889 s - in com.SampleDataHarvester.WebApp.WebAppApplicationTests
