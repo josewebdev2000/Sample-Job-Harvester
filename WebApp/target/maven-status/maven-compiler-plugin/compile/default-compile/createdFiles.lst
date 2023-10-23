@@ -1,0 +1,11 @@
+com\SampleDataHarvester\WebApp\controllers\CrudController.class
+com\SampleDataHarvester\WebApp\repositories\JobPostingRepository.class
+com\SampleDataHarvester\WebApp\dtos\JobPostingDto.class
+com\SampleDataHarvester\WebApp\mappers\JobPostingMapper.class
+com\SampleDataHarvester\WebApp\services\JobPostingService.class
+com\SampleDataHarvester\WebApp\services\impl\JobPostingServiceImpl.class
+com\SampleDataHarvester\WebApp\entities\JobPosting.class
+com\SampleDataHarvester\WebApp\exceptions\MissingIdParameterException.class
+com\SampleDataHarvester\WebApp\controllers\PagesController.class
+com\SampleDataHarvester\WebApp\WebAppApplication.class
+com\SampleDataHarvester\WebApp\exceptions\ResourceNotFoundException.class
